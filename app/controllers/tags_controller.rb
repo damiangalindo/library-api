@@ -8,4 +8,8 @@ class TagsController < ApiController
     
   end
 
+  def update
+    
+  end
+
 end
