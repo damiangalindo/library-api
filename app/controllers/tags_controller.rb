@@ -12,4 +12,8 @@ class TagsController < ApiController
     
   end
 
+  def create
+    
+  end
+
 end
