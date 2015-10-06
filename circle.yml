@@ -1,4 +1,4 @@
 notify:
   webhooks:
     # A list of hashes representing hooks. Only the url field is supported.
-    - url: http://command-center-backend.herokuapp.com/ci_push
+    - url: http://koombea:k00mb3a2015@command-center-backend.herokuapp.com/ci_push
